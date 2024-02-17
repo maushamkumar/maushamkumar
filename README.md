@@ -1,7 +1,8 @@
 # 💫 About Me:
 ✨ About Me in 30 secs✨<br><br>👀 I’m addicted to Data Analysis and I love learning new skills<br><br>💉 I have a clinical Healthcare background and now I am a Healthcare Data Analyst<br><br>🌱 I self-taught SQL and Tableau<br><br>📉 I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Machine Learning and Deep Learning <br><br>
 
-Connect me on LinkIn  (https://linkedin.com/in/https://www.linkedin.com/in/mausam-kumar-43b53a293/) 
+Connect me on LinkIn  [!(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mausam-kumar-43b53a293/) 
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mausam-kumar-43b53a293/) 
