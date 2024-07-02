@@ -2,7 +2,7 @@
 
 ✨ About Me in 30 secs✨<br><br>👀 I’m addicted to AI and ML and I love learning new skills<br><br> I have keen interest in Agri-tech <br><br>🌱 I self-taught Python, SQL and Machine Learning <br><br>📉 I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Machine Learning and Deep Learning <br><br>
 
-Connect with me on LinkedIn  [Link](https://www.linkedin.com/in/mausam-kumar-43b53a293/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mausam-kumar-43b53a293/)
 
 
 # 💻 Tech Stack:
